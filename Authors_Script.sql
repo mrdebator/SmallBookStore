@@ -1,0 +1,80 @@
+DROP TABLE Authors;
+
+CREATE TABLE Authors (
+	AuthorID NUMBER(10) PRIMARY KEY,
+	FirstName VARCHAR(20) NULL,
+	LastName VARCHAR(20) NULL 
+	)
+	;
+
+INSERT INTO Authors VALUES (1,'John','Douglas');
+INSERT INTO Authors VALUES (2,'Mark','Olshaker');
+INSERT INTO Authors VALUES (3,'Cecelia','Mecca');
+INSERT INTO Authors VALUES (4,'Ana Maria','Spagna');
+INSERT INTO Authors VALUES (5,'Mark','Vanhoenacker');
+INSERT INTO Authors VALUES (6,'Jen','Gale');
+INSERT INTO Authors VALUES (7,'Giles','Chapman');
+INSERT INTO Authors VALUES (8,'Sam','Nigro');
+INSERT INTO Authors VALUES (9,'J. D.','Swanson');
+INSERT INTO Authors VALUES (10,'Brian','Cosgrove');
+INSERT INTO Authors VALUES (11,'Sean P.','Hoggs');
+INSERT INTO Authors VALUES (12,'David','Kahn');
+INSERT INTO Authors VALUES (13,'L.Alan','LeDoux');
+INSERT INTO Authors VALUES (14,'J. H. ','Haynes');
+INSERT INTO Authors VALUES (15,'Ryan','Boroff');
+INSERT INTO Authors VALUES (16,'David','Nash');
+INSERT INTO Authors VALUES (17,'Mike','Gould');
+INSERT INTO Authors VALUES (18,'Cy','Tymony');
+INSERT INTO Authors VALUES (19,'James Paul','Williams');
+INSERT INTO Authors VALUES (20,'Tony','Lewin');
+INSERT INTO Authors VALUES (21,'Peter','Walker');
+INSERT INTO Authors VALUES (22,'Greg','Rossel');
+INSERT INTO Authors VALUES (23,'Kate','Humble');
+INSERT INTO Authors VALUES (24,'Isaac','Martin');
+INSERT INTO Authors VALUES (25,'Creek','Stewart');
+INSERT INTO Authors VALUES (26,'Simon','Garfield');
+INSERT INTO Authors VALUES (27,'Justin S','Willamson');
+INSERT INTO Authors VALUES (28,'John','Mellor');
+INSERT INTO Authors VALUES (29,'Steve','Scott');
+INSERT INTO Authors VALUES (30,'Juval','Aviv');
+INSERT INTO Authors VALUES (31,'Luke','Powell');
+INSERT INTO Authors VALUES (32,'Brian','Toal');
+INSERT INTO Authors VALUES (33,'Gary','Ginsberg');
+INSERT INTO Authors VALUES (34,'Louis J. ','Rydill');
+INSERT INTO Authors VALUES (35,'Roy','Burcher');
+INSERT INTO Authors VALUES (36,'Darcy','Olsen');
+INSERT INTO Authors VALUES (37,'Graham','Stoakes');
+INSERT INTO Authors VALUES (38,'Matt','Larsen');
+INSERT INTO Authors VALUES (39,'John','Browne');
+INSERT INTO Authors VALUES (40,'Dee','Hockenberry');
+INSERT INTO Authors VALUES (41,'Leon','Pantenburg');
+INSERT INTO Authors VALUES (42,'Damian','Brindle');
+INSERT INTO Authors VALUES (43,'Richard','Holdener');
+INSERT INTO Authors VALUES (44,'Workman','Calendars');
+INSERT INTO Authors VALUES (45,'Mary Lou','Darling');
+INSERT INTO Authors VALUES (46,'William F.','Milliken');
+INSERT INTO Authors VALUES (47,'Edward M.','Kasprak');
+INSERT INTO Authors VALUES (48,'Douglas L.','Milliken');
+INSERT INTO Authors VALUES (49,'L. Daniel','Metz');
+INSERT INTO Authors VALUES (50,'Catherine','Pez');
+INSERT INTO Authors VALUES (51,'World Health','Organization');
+INSERT INTO Authors VALUES (52,'Yuriy','Sinyavskiy');
+INSERT INTO Authors VALUES (53,'Bernard','Faye');
+INSERT INTO Authors VALUES (54,'Jay','Storer');
+INSERT INTO Authors VALUES (55,'Susan','North');
+INSERT INTO Authors VALUES (56,'Barrera Vallejo','Ana');
+INSERT INTO Authors VALUES (57,'Matthew','Reed');
+INSERT INTO Authors VALUES (58,'Malcolm','Nunney');
+INSERT INTO Authors VALUES (59,'Miles','Redd');
+INSERT INTO Authors VALUES (60,'Jason','Hanson');
+INSERT INTO Authors VALUES (61,'Patrick R.','Foster');
+INSERT INTO Authors VALUES (62,'Brian John','Heard');
+INSERT INTO Authors VALUES (63,'Rick','Searle');
+INSERT INTO Authors VALUES (64,'Don','Casey');
+INSERT INTO Authors VALUES (65,'Daniela','Turudich');
+INSERT INTO Authors VALUES (66,'Dr. Raymound','Leung');
+INSERT INTO Authors VALUES (67,'James','Kavanagh');
+INSERT INTO Authors VALUES (68,'Jennifer','Saunders');
+INSERT INTO Authors VALUES (69,'Philippe','Caresse');
+INSERT INTO Authors VALUES (70,'Bruce','Taylor');
+INSERT INTO Authors VALUES (71,'Polly','Higgins');
